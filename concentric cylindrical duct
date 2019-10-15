@@ -1,0 +1,5 @@
+In case of a concentric cylindrical duct, the calculation of the in-plane wavenumber is different. But the decomposition step should remain the same.
+Here we find 2 files
+1. Duct_mode_concentric.m that could do decomposition
+2. zerobesscross.m that calculates the zeros of the m-th order cross-product Bessel function found from 
+http://freesourcecode.net/matlabprojects/60590/a-function-to-find-the-roots-of-the-bessel-function-cross-products.--in-matlab#.XaVl4xQzbtR
